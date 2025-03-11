@@ -2,11 +2,11 @@
 
 I'm a Computer Science and Economics student at the University of North Texas. I love developing software and solving problems. Here's a bit about me:
 
-I have hands-on experience with technologies such as **Python**, **JavaScript**, **C/C++**, **SQL**, **Node.js**, and **Flask**, and I’ve worked on various projects, from building dynamic websites to developing authentication servers. I love collaborating in **Agile** environments and have a solid understanding of **Git** and version control.
+I have hands-on experience with technologies such as **Python**, **JavaScript**, **C/C++**, **SQL**, **Node.js**, **React.js**, **Express.js**, and **Flask**, and I’ve worked on various projects, from building dynamic websites to developing authentication servers. I love collaborating in **Agile** environments and have a solid understanding of **Git** and version control.
 
 ## 🔧 Technical Skills:
 - **Programming Languages**: Python, C/C++, JavaScript, SQL, PHP, HTML/CSS
-- **Tools & Technologies**: Node.js, Flask, AWS, Cypress, Git, RESTful APIs, PostgreSQL, MySQL, SQLite
+- **Tools & Technologies**: React.js, Express.js, Node.js, Flask, AWS, Cypress, Git, RESTful APIs, PostgreSQL, MySQL, SQLite
 - **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD
 
 ## 🌱 Currently Working On:
