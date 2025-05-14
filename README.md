@@ -1,6 +1,6 @@
 ## Hi, I'm Tomiwa Adewolu 👋
 
-I'm a Computer Science and Economics student at the University of North Texas. I love developing software and solving problems. Here's a bit about me:
+I'm an Aspiring Software Engineer and a recent graduate from the University of North Texas with a BS in Computer Science and a BS in Economics. I love developing software and solving problems. Here's a bit about me:
 
 I have hands-on experience with technologies such as **Python**, **JavaScript**, **C/C++**, **SQL**, **Node.js**, **React.js**, **Express.js**, and **Flask**, and I’ve worked on various projects, from building dynamic websites to developing authentication servers. I love collaborating in **Agile** environments and have a solid understanding of **Git** and version control.
 
