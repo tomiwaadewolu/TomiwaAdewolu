@@ -10,7 +10,7 @@ I have hands-on experience with technologies such as **Python**, **JavaScript**,
 - **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD
 
 ## 🌱 Currently Working On:
-- Developing a **full-stack web app** that translates block code to Python with a team of talented developers.
+- Developing a **full-stack web app** that translates compiles code in Java, Python, C, and C++.
 
 ## 📫 Contact
 - Email: [tomiwaadewolu9@gmail.com](mailto:tomiwaadewolu9@gmail.com)
