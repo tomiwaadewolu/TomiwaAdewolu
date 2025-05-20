@@ -6,11 +6,12 @@ I have hands-on experience with technologies such as **Python**, **JavaScript**,
 
 ## 🔧 Technical Skills:
 - **Programming Languages**: Python, C/C++, JavaScript, SQL, PHP, HTML/CSS
-- **Tools & Technologies**: React.js, Express.js, Node.js, Flask, AWS, Cypress, Git, RESTful APIs, PostgreSQL, MySQL, SQLite
-- **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD
+- **Tools & Technologies**: React.js, Express.js, Node.js, Flask, Apache Airflow, Docker, Pandas, PostgreSQL, MySQL, SQLite, AWS, Cypress, Git, RESTful APIs
+- **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD, Jupyter Notebooks
 
 ## 🌱 Currently Working On:
 - Developing a **full-stack web app** that translates compiles code in Java, Python, C, and C++.
+- Exploring more **data engineering** tools and cloud platforms for pipeline orchestration and analysis.
 
 ## 📫 Contact
 - Email: [tomiwaadewolu9@gmail.com](mailto:tomiwaadewolu9@gmail.com)
