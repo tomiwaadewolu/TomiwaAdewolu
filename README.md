@@ -5,9 +5,9 @@ I'm an Aspiring Software Engineer and a recent graduate from the University of N
 I have hands-on experience with technologies such as **Python**, **JavaScript**, **C/C++**, **SQL**, **Node.js**, **React.js**, **Express.js**, and **Flask**, and I’ve worked on various projects, from building dynamic websites to developing authentication servers. I love collaborating in **Agile** environments and have a solid understanding of **Git** and version control.
 
 ## 🔧 Technical Skills:
-- **Programming Languages**: Python, C/C++, JavaScript, SQL, PHP, HTML/CSS
-- **Tools & Technologies**: React.js, Express.js, Node.js, Flask, Apache Airflow, Docker, Pandas, PostgreSQL, MySQL, SQLite, AWS, Cypress, Git, RESTful APIs
-- **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD, Jupyter Notebooks
+- **Programming Languages**: Python, C/C++, JavaScript, SQL, PHP, HTML/CSS, Java
+- **Tools & Technologies**: React.js, Express.js, Node.js, Flask, Spring Boot, Apache Airflow, Docker, Pandas, PostgreSQL, MySQL, SQLite, AWS, Cypress, Git, RESTful APIs
+- **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD, Jupyter Notebooks, IntelliJ
 
 ## 🌱 Currently Working On:
 - Developing a **full-stack web app** that translates compiles code in Java, Python, C, and C++.
