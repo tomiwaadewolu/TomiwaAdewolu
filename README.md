@@ -10,8 +10,13 @@ I have hands-on experience with technologies such as **Python**, **JavaScript**,
 - **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD, Jupyter Notebooks, IntelliJ
 
 ## 🌱 Currently Working On:
-- Developing a **full-stack web app** that translates compiles code in Java, Python, C, and C++.
-- Exploring more **data engineering** tools and cloud platforms for pipeline orchestration and analysis.
+- Building an **NLP-based FAQ Chatbot** using Python and spaCy, with intent recognition, multiple responses, and chat logging.
+
+## 💻 Project Highlights:
+- **FAQ Chatbot (Python + spaCy NLP)** – Command-line chatbot with multiple intents (greeting, hours, location, contact, services, pricing, help) and conversation logging for real-world analytics. Learned rule-based NLP, lemmatization, and Python file I/O.
+- **Web-Based Code Compiler** – Multi-language compiler supporting Python, Java, C, and C++ with React.js frontend and Node.js/Express.js backend.
+- **Portfolio Tracker** – Full-stack app with React, Spring Boot, MySQL, and Chart.js for tracking stock portfolios and tax estimations.
+- **PyBlocks** – Block-based coding platform translating blocks to Python code, including REST APIs and WCAG-compliant UI.
 
 ## 📫 Contact
 - Email: [tomiwaadewolu9@gmail.com](mailto:tomiwaadewolu9@gmail.com)
