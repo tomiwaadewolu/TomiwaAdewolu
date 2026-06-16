@@ -1,24 +1,25 @@
-## Hi, I'm Tomiwa Adewolu 👋
+## Hi, I'm Tomiwa Adewolu
 
-I'm an Aspiring Software Engineer and a recent graduate from the University of North Texas with a BS in Computer Science and a BS in Economics. I love developing software and solving problems. Here's a bit about me:
+I’m a Software Engineer and recent graduate from the University of North Texas with a B.S. in Computer Science and a B.S. in Economics. I enjoy building software systems and solving real-world problems through clean, scalable, and efficient solutions.
 
-I have hands-on experience with technologies such as **Python**, **JavaScript**, **Java** , **C/C++**, **SQL**, **Node.js**, **React.js**, **Express.js**, and **Flask**, and I’ve worked on various projects, from building dynamic websites to developing authentication servers. I love collaborating in **Agile** environments and have a solid understanding of **Git** and version control.
+I have hands-on experience with technologies such as Python, JavaScript, Java, C/C++, SQL, Node.js, React.js, Express.js, Flask, Spring Boot, and ASP.NET, and I’ve worked on projects ranging from full-stack web applications to authentication systems and data pipelines. I enjoy collaborating in Agile environments and have strong experience using Git for version control and team-based development.
 
-## 🔧 Technical Skills:
-- **Programming Languages**: Python, C/C++, JavaScript, SQL, PHP, HTML/CSS, Java
-- **Tools & Technologies**: React.js, Express.js, Node.js, Flask, Spring Boot, Apache Airflow, Docker, Pandas, PostgreSQL, MySQL, SQLite, AWS, Cypress, Git, RESTful APIs
-- **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD, Jupyter Notebooks, IntelliJ
+## Technical Skills:
+- **Programming Languages**: Python, C/C++, JavaScript, TypeScript, SQL, PHP, HTML/CSS, Java, C#
+- **Tools & Technologies**: React.js, Next.js, Express.js, Node.js, Flask, Spring Boot, ASP.NET MVC, ASP.NET Web API, Apache Airflow, Docker, Pandas, PostgreSQL, MySQL, SQLite, AWS, Azure, GCP, Cypress, Git, RESTful APIs
+- **Software & Platforms**: Visual Studio, Pytest, Figma, GitLab CI/CD, Jupyter Notebooks, IntelliJ, Jira, Bitbucket
 
-## 🌱 Currently Working On:
+## Currently Working On:
 - Building an **NLP-based FAQ Chatbot** using Python and spaCy, with intent recognition, multiple responses, and chat logging.
 
-## 💻 Project Highlights:
-- **FAQ Chatbot (Python + spaCy NLP)** – Command-line chatbot with multiple intents (greeting, hours, location, contact, services, pricing, help) and conversation logging for real-world analytics. Learned rule-based NLP, lemmatization, and Python file I/O.
-- **Web-Based Code Compiler** – Multi-language compiler supporting Python, Java, C, and C++ with React.js frontend and Node.js/Express.js backend.
-- **Portfolio Tracker** – Full-stack app with React, Spring Boot, MySQL, and Chart.js for tracking stock portfolios and tax estimations.
-- **PyBlocks** – Block-based coding platform translating blocks to Python code, including REST APIs and WCAG-compliant UI.
+## Project Highlights:
+- **FAQ Chatbot (Python + spaCy NLP)** – NLP-powered chatbot built with Python, Flask, spaCy, and scikit-learn featuring intent classification, conversation logging, automated testing, and REST API integration.
+- **Code Compiler** – Full-stack compiler supporting Python, Java, C, and C++ using React, React Native, Node.js, Express.js, and Judge0. Includes both web and mobile IDE experiences.
+- **Portfolio Tracker** – Full-stack portfolio management application built with React, Spring Boot, MySQL, AWS, and Chart.js. Supports portfolio tracking, stock performance analysis, tax estimation, and real-time market data integration.
+- **PyBlocks** – Block-based programming platform that generates Python code from visual blocks. Built using JavaScript, Node.js, PostgreSQL, REST APIs, and WCAG-compliant accessibility standards.
+- **Spotify Data Pipeline** - End-to-end ETL pipeline using Python, PostgreSQL, Docker, Pandas, and Apache Airflow for processing and analyzing Spotify streaming data with automated workflows and reporting.
 
-## 📫 Contact
+## Contact
 - Email: [tomiwaadewolu9@gmail.com](mailto:tomiwaadewolu9@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/ireoluwatomiwa-adewolu-618b79286/](https://www.linkedin.com/in/ireoluwatomiwa-adewolu-618b79286/)
 
